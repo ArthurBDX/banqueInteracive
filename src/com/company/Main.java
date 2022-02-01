@@ -74,7 +74,6 @@ public class Main {
         BanqueInteractive bi = new BanqueInteractive();
         bi.interaction();
 
-
         //renflouer()
         /*
         Client client1 = new Client("Arthur");
