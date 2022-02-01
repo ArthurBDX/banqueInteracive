@@ -1,6 +1,5 @@
 package com.company;
 
-import java.awt.image.BandedSampleModel;
 import java.util.ArrayList;
 import java.util.Arrays;
 
@@ -67,7 +66,9 @@ public class Main {
         banque1.bilanClient(banque1.getClients()[0]);
         System.out.println("détails tous comptes");
         banque1.afficherBilan();
-        */
+
+         */
+
 
         //BanqueInteractive
 
